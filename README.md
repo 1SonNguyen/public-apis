@@ -1,3 +1,44 @@
+### Index
+* [Animals](#animals)
+* [Anime](#anime)
+* [Art & Design](#art--design)
+* [Blockchain](#blockchain)
+* [Books](#books)
+* [Business](#business)
+* [Calendar](#calendar)
+* [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
+* [Cryptocurrency](#cryptocurrency)
+* [Currency Exchange](#currency-exchange)
+* [Development](#development)
+* [Dictionaries](#dictionaries)
+* [Email](#email)
+* [Entertainment](#entertainment)
+* [Environment](#environment)
+* [Finance](#finance)
+* [Food & Drink](#food--drink)
+* [Games & Comics](#games--comics)
+* [Geocoding](#geocoding)
+* [Government](#government)
+* [Health](#health)
+* [Jobs](#jobs)
+* [Machine Learning](#machine-learning)
+* [Music](#music)
+* [News](#news)
+* [Open Data](#open-data)
+* [Open Source Projects](#open-source-projects)
+* [Personality](#personality)
+* [Photography](#photography)
+* [Science & Math](#science--math)
+* [Security](#security)
+* [Social](#social)
+* [Sports & Fitness](#sports--fitness)
+* [Test Data](#test-data)
+* [Tracking](#tracking)
+* [Transportation](#transportation)
+* [URL Shorteners](#url-shorteners)
+* [Video](#video)
+* [Weather](#weather)
+
 ### Animals
 | API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
@@ -571,12 +612,6 @@
 | [Metabase](https://www.metabase.com/) | An open source Business Intelligence server to share data and analytics inside your company | `No` | Yes | Yes |
 | [Shields](https://shields.io/) | Concise, consistent, and legible badges in SVG and raster format | `No` | Yes | Unknown |
 
-### Patent
-| API | Description | Auth | HTTPS | CORS |
-|:---|:---|:---|:---|:---|
-| [PatentsView ](https://patentsview.org/apis/purpose) | API is intended to explore and visualize trends/patterns across the US innovation landscape | `No` | Yes | Unknown |
-| [USPTO](https://www.uspto.gov/learning-and-resources/open-data-and-mobility) | USA patent api services | `No` | Yes | Unknown |
-
 ### Personality
 | API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
@@ -776,12 +811,6 @@
 | [owo](https://owo.vc/api) | A simple link obfuscator/shortener | `No` | Yes | Unknown |
 | [Short Link](https://github.com/FayasNoushad/Short-Link-API) | Short URLs support so many domains | `No` | Yes | Unknown |
 | [Shrtcode](https://shrtco.de/docs) | URl Shortener with multiple Domains | `No` | Yes | Yes |
-
-### Vehicle
-| API | Description | Auth | HTTPS | CORS |
-|:---|:---|:---|:---|:---|
-| [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | `No` | Yes | No |
-| [NHTSA](https://vpic.nhtsa.dot.gov/api/) | NHTSA Product Information Catalog and Vehicle Listing | `No` | Yes | Unknown |
 
 ### Video
 | API | Description | Auth | HTTPS | CORS |
