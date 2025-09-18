@@ -220,12 +220,6 @@
 | [Indonesia Dictionary](https://new-kbbi-api.herokuapp.com/) | Indonesia dictionary many words | `No` | Yes | Unknown |
 | [Wiktionary](https://en.wiktionary.org/w/api.php) | Collaborative dictionary data | `No` | Yes | Yes |
 
-### Documents & Productivity
-| API | Description | Auth | HTTPS | CORS |
-|:---|:---|:---|:---|:---|
-| [Vector Express v2.0](https://vector.express) | Free vector file converting API | `No` | Yes | No |
-| [WakaTime](https://wakatime.com/developers) | Automated time tracking leaderboards for programmers | `No` | Yes | Unknown |
-
 ### Email
 | API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
